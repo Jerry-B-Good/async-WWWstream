@@ -1,0 +1,14 @@
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.AssemblyInfoInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.AssemblyInfo.cs
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.csproj.CoreCompileInputs.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\bin\Debug\net10.0\async-WWWstream.exe
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\bin\Debug\net10.0\async-WWWstream.deps.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\bin\Debug\net10.0\async-WWWstream.runtimeconfig.json
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\bin\Debug\net10.0\async-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\bin\Debug\net10.0\async-WWWstream.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\refint\async-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.pdb
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.genruntimeconfig.cache
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\ref\async-WWWstream.dll
