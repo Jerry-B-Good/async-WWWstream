@@ -8,7 +8,7 @@ Async programming is one of the tougher concepts to understand in software devel
 For this exercise, it is suggested that you use an API that can be accessed without fighting with the more complex aspects of API consumption like client IDs and client secrets. Here are some examples of APIs you can consume in your C# application without authentication:
 
 + https://pokeapi.co/api/v2/pokemon
-+https://www.reddit.com/r/javascript.json
++ https://www.reddit.com/r/javascript.json
 
 For DateTime values, you may deserialize them as a string if you are not yet comfortable with working with dates or times in C#.
 
