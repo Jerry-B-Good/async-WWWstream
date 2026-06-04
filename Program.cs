@@ -24,10 +24,8 @@ class Program
                 
                 string responseBody = await response.Content.ReadAsStringAsync();
 
-                /*
-                 * Console.WriteLine("\n---- Where The ISS At? JSON Response ----");
-                 * Console.WriteLine(responseBody);
-                 */
+                /* Console.WriteLine("\n---- Where The ISS At? JSON Response ----");
+                Console.WriteLine(responseBody); */
 
                 var pretty = new JsonSerializerOptions
                 {

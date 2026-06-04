@@ -12,3 +12,4 @@ D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net1
 D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.pdb
 D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.genruntimeconfig.cache
 D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\ref\async-WWWstream.dll
+D:\Users\Derrick Auguar\source\repos\Jerry-B-Good\async-WWWstream\obj\Debug\net10.0\async-WWWstream.sourcelink.json

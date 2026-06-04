@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("async-WWWstream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3c29bdeba9dfd2aa8bbd9234b63f65c9fe3f8cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c4ccf88df714b6abb24e53ca06eec6115f7d4fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("async-WWWstream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("async-WWWstream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
